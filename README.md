@@ -1,2 +1,6 @@
 # python-tools
 python开发常用工具
+
+cmd_color_printers是一个在Windows命令行中输出彩色文字的工具
+wdf是一个微信单向好友检测工具
+ez_setup是一个easy_install的安装器
